@@ -18,12 +18,11 @@ To write a Java program that creates a new file named example.txt using the File
 
 
 ## PROGRAM:
+
  ```
-/*
 Program to implement a File Handling using Java
 Developed by: Ashqar Ahamed S T
 RegisterNumber:  212224240018
-*/
 ```
 
 ## SOURCE CODE:
