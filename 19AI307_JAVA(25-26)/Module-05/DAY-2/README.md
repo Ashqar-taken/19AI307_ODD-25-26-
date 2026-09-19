@@ -25,12 +25,11 @@ To write a Java program that serializes a collection of Student objects (ArrayLi
 
 
 ## PROGRAM:
+
  ```
-/*
 Program to implement a Serialization and Deserialization using Java
 Developed by: Ashqar Ahamed S T
 RegisterNumber: 212224240018
-*/
 ```
 
 ## SOURCE CODE:
