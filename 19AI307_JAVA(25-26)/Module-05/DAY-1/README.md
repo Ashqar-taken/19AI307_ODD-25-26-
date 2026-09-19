@@ -24,12 +24,12 @@ To write a Java program that demonstrates stream chaining by placing a BufferedR
 
 
 ## PROGRAM:
+
  ```
-/*
 Program to implement a InputStreamReader using Java
 Developed by: Ashqar Ahamed S T
 RegisterNumber:  212224240018
-*/
+
 ```
 
 ## SOURCE CODE:
