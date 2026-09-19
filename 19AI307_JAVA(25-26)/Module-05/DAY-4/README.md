@@ -21,12 +21,11 @@ To write a Java program that demonstrates multithreading by creating a user-defi
 
 
 ## PROGRAM:
+
  ```
-/*
 Program to implement a Thread Priority Concept using Java
 Developed by: Ashqar Ahamed S T
 RegisterNumber:  212224240018
-*/
 ```
 
 ## SOURCE CODE:
